@@ -1,0 +1,14 @@
+layout_spectrum: 0.5814828
+typography_spectrum: 0.6944208
+color:
+  saturation: 0.1524273
+  lightness: 0.4302722
+  brandStrength: 0.540747
+  rhythmicContrast: 0.859018
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: netkovski
